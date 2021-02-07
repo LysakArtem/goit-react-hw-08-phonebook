@@ -1,0 +1,2 @@
+(this.webpackJsonpphonebook=this.webpackJsonpphonebook||[]).push([[6],{87:function(e,o,a){e.exports={image:"HomeView_image__JDzi1"}},95:function(e,o,a){"use strict";a.r(o);var n=a(1),s=a(87),c=a.n(s),i=a.p+"static/media/phone-book.05b0b429.png";o.default=function(){return Object(n.jsxs)("div",{className:c.a.conteiner,children:[Object(n.jsx)("h1",{className:c.a.ceader,children:"Welcome to Phonebook!!!!"}),Object(n.jsx)("img",{src:i,alt:"phonebook",className:c.a.image})]})}}}]);
+//# sourceMappingURL=6.13ea50fc.chunk.js.map
